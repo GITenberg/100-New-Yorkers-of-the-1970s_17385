@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '7341'
     url: http://www.gutenberg.org/2009/agents/7341
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17385#100-New-Yorkers-of-the-1970s
 gutenberg_issued: '2005-12-24'
 gutenberg_type: Text
 identifiers:
